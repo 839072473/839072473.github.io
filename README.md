@@ -1,1 +1,76 @@
 # 839072473.github.io
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>南风知我意</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon"/>
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload" >
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+		
+						<div align="center">
+								<img src="images/avatar.jpg" style="width:100px; height:100px; border-radius:50%; overflow:hidden; margin-bottom: 15px;" />
+							</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Superheros</h1>
+								<p>
+								    When you’ve been fighting for it all your life<br />
+									You’ve been struggling to make things right<br />
+									That’s how a superhero learns to fly</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li>
+									<a href="http://benwei17.github.io/blog/" class="fa  fa-pencil-square-o" style="color:mediumspringgreen"><span>Blog</span></a>
+								</li>
+								<li>
+									<a href="https://github.com/benwei17" class="fa fa-github" style="color:black"><span>Github</span></a>
+								</li>
+								<li>
+									<a href="https://music.163.com/#/user/home?id=319557938" class="fa fa-music" style="color:red"><span>Music</span></a>
+								</li>
+								<li>
+									<a href="https://space.bilibili.com/13108433/#/" class="fa fa-film" style="color:pink"><span>Bilibili</span></a>
+								</li>
+								<li>
+									<a href="https://steamcommunity.com/id/19980117lb/" class="fa fa-steam" style="color:skyblue"><span>Steam</span></a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Untitled. Design: Deemo</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
